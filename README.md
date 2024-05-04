@@ -22,7 +22,7 @@ By combining Terraform and GitHub Actions, you can:
 
 This project serves as a starting point for your infrastructure automation journey, providing a basic structure and guidelines to build upon.
 
-## Prerequisites
+## Prerequisites:
 Before you begin, ensure you have the following prerequisites:
 
 * GitHub Account
